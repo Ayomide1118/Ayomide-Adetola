@@ -1,1 +1,5 @@
-
+title Ayomide Adetola
+#logo
+description show text below logo
+show_download | False
+theme | jekyll_theme_minimal
